@@ -1,0 +1,1 @@
+This is a responsive eudora website by HTML, CSS, Bootstrap and js.
